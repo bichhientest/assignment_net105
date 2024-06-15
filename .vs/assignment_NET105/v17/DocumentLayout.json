@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\assignment_NET105\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\orderfastfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\orderfastfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\ordercomboescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\ordercomboescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\fastfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\fastfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\combofastfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\combofastfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\controllers\\comboescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\controllers\\comboescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\assignment_NET105\\assignment_NET105\\Migrations\\20240615014214_Assignment_NET105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assignment_NET105\\Migrations\\20240615014214_Assignment_NET105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\orderfastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\orderfastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\ordercombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\ordercombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\fastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\combofastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\combofastfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|c:\\assignment_net105\\assignment_net105\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC606BD2-6AD5-4BC0-B02A-102CF58E27CD}|assignment_NET105\\assignment_NET105.csproj|solutionrelative:assignment_net105\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:47:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderFastfoodsController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\OrderFastfoodsController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\OrderFastfoodsController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\OrderFastfoodsController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\OrderFastfoodsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:47:07.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:46:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderComboesController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\OrderComboesController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\OrderComboesController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\OrderComboesController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\OrderComboesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:46:14.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastfoodsController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\FastfoodsController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\FastfoodsController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\FastfoodsController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\FastfoodsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:45:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComboFastfoodsController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\ComboFastfoodsController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\ComboFastfoodsController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\ComboFastfoodsController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\ComboFastfoodsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:45:11.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComboesController.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\ComboesController.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Controllers\\ComboesController.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Controllers\\ComboesController.cs",
+              "RelativeToolTip": "assignment_NET105\\Controllers\\ComboesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240615014214_Assignment_NET105.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Migrations\\20240615014214_Assignment_NET105.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Migrations\\20240615014214_Assignment_NET105.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Migrations\\20240615014214_Assignment_NET105.cs",
+              "RelativeToolTip": "assignment_NET105\\Migrations\\20240615014214_Assignment_NET105.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:42:14.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Program.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Program.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Program.cs",
+              "RelativeToolTip": "assignment_NET105\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:39:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\appsettings.json",
+              "RelativeDocumentMoniker": "assignment_NET105\\appsettings.json",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\appsettings.json",
+              "RelativeToolTip": "assignment_NET105\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T01:38:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:30:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\User.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\User.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\User.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:28:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderFastfood.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\OrderFastfood.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\OrderFastfood.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\OrderFastfood.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\OrderFastfood.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:28:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:27:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderCombo.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\OrderCombo.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\OrderCombo.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\OrderCombo.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\OrderCombo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:26:50.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fastfood.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\Fastfood.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\Fastfood.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\Fastfood.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\Fastfood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:25:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComboFastfood.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\ComboFastfood.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\ComboFastfood.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\ComboFastfood.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\ComboFastfood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:25:19.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "C:\\assignment_NET105\\assignment_NET105\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "assignment_NET105\\Models\\Combo.cs",
+              "ToolTip": "C:\\assignment_NET105\\assignment_NET105\\Models\\Combo.cs",
+              "RelativeToolTip": "assignment_NET105\\Models\\Combo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:24:44.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
